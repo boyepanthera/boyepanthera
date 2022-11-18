@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there! I am a Nodejs and Reactjs Mentor 👋
+
+- 🔭 I’m currently working on Vendiit and GenieCMS...
+- 🌱 I’m currently learning Spring Java Framework...
 
 <!--
-**boyepanthera/boyepanthera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wonderfulolanrewaju/wonderfulolanrewaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Contact me on Codementor](https://www.codementor.io/m-badges/eyiwumiolaboye/im-a-cm-b.svg)](https://www.codementor.io/@eyiwumiolaboye?refer=badge)
